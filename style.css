@@ -3292,3 +3292,11 @@ h2.accordion-header {
 	text-align: center;
 	margin-top: 20px;
 }
+.map-area iframe{
+	width: 100%;
+	max-width: 1400px;
+	height: 90vh;
+	padding: 40px;
+	margin-top: 20px 0px;
+
+}
